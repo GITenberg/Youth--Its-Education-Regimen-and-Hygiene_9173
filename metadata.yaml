@@ -1,0 +1,40 @@
+_repo: Youth--Its-Education-Regimen-and-Hygiene_9173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, G. Stanley (Granville Stanley)
+    alias: Hall, Granville Stanley
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '2990'
+    url: http://www.gutenberg.org/2009/agents/2990
+    wikipedia: http://en.wikipedia.org/wiki/G._Stanley_Hall
+description: '"I have often been asked to select and epitomize the practical and especially
+  the pedagogical conclusions of my large volumes on Adolescence, published in 1904,
+  in such form that they may be available at a minimum cost to parents, teachers,
+  reading circles, normal schools, and college classes, by whom even the larger volumes
+  have been often used. This, with the cooperation of the publishers and with the
+  valuable aid of Superintendent C. N. Kendall of Indianapolis, I have tried to do,
+  following in the main the original text, with only such minor changes and additions
+  as were necessary to bring the topics up to date, and adding a new chapter on moral
+  and religious education. For the scientific justification of my educational conclusions
+  I must, of course, refer to the larger volumes. The last chapter is not in "Adolescence,"
+  but is revised from a paper printed elsewhere"--Preface. (PsycINFO Database Record
+  (c) 2010 APA, all rights reserved).'
+gutenberg_bookshelf: Education
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Children -- Health and hygiene'
+- !lcsh 'Educational psychology'
+- !lcsh 'Adolescence'
+- GITenberg
+title: 'Youth: Its Education, Regimen, and Hygiene'
+url: http://www.gutenberg.org/ebooks/9173
