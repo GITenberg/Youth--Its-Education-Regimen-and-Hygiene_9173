@@ -1,5 +1,8 @@
 _repo: Youth--Its-Education-Regimen-and-Hygiene_9173
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, G. Stanley (Granville Stanley)
@@ -21,6 +24,8 @@ description: '"I have often been asked to select and epitomize the practical and
   I must, of course, refer to the larger volumes. The last chapter is not in "Adolescence,"
   but is revised from a paper printed elsewhere"--Preface. (PsycINFO Database Record
   (c) 2010 APA, all rights reserved).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9173#Youth--Its-Education-Regimen-and-Hygiene
 gutenberg_bookshelf: Education
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
